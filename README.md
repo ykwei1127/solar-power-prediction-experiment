@@ -40,3 +40,9 @@ python train_xgboost.py
 ```
 python train_nbeats.py
 ```
+
+## Do
+
+1. 更改timesteps長度
+
+2. 使用殘差資料訓練，預測發電變化量
