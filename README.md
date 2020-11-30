@@ -34,6 +34,9 @@ python train_tcn.py
 
 ```
 python train_xgboost.py
-```# -solar_power_prediction
-# solar_power_prediction
-# solar-power-prediction-experiment
+``` 
+- NBeats
+
+```
+python train_nbeats.py
+```
